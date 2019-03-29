@@ -4,7 +4,7 @@
   "version": "3.2.0",
   "author": "Francois Zaninotto",
   "dependencies": {
-    "mongoose":  "3.6.7",
+    "mongoose":  "4.13.8",
     "mongoose-lifecycle": "1.0.0",
     "express":   "3.2.0",
     "express-partials": "0.1.1",
@@ -12,7 +12,7 @@
     "ejs":       "0.8.3",
     "config":    "0.4.32",
     "async":     "0.1.22",
-    "socket.io": "0.9.14",
+    "socket.io": "2.0.4",
     "semver":    "1.1.0",
     "moment":    "2.1.0",
     "nodemailer": "0.3.35",

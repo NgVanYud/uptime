@@ -5,7 +5,7 @@ mongodb:
   database: uptime
   user:     root 
   password:
-  connectionString: mongodb://localhost/uptime
+  connectionString: mongodb:://
 
 monitor:
   name:                   origin
