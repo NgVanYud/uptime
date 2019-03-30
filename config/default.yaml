@@ -25,16 +25,16 @@ plugins:
   - ./plugins/console
   - ./plugins/patternMatcher
   - ./plugins/httpOptions
-  # - ./plugins/email
-  # - ./plugins/basicAuth
+  - ./plugins/email
+  - ./plugins/basicAuth
 
 email:
   method:      SMTP  # possible methods are SMTP, SES, or Sendmail
   transport:         # see https://github.com/andris9/nodemailer for transport options
     service:   Gmail # see https://github.com/andris9/Nodemailer/blob/master/lib/wellknown.js for well-known services
     auth:            
-      user:          # The email account username, e.g. 'username@gmail.com'
-      pass:          # The email account password, e.G. 'password'
+      user:duy.nv.96@gmail.com
+      pass:388999$YudNgVan$
   event:
     up:        true
     down:      true
